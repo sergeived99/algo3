@@ -1,0 +1,10 @@
+[project]
+name = "lab12"
+version = "0.1.0"
+description = "Лабораторная работа №12"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "networkx>=3.6.1",
+    "osmnx>=2.1.0",
+]
