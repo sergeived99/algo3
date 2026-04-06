@@ -1,0 +1,8 @@
+from,to,length,oneway,name
+1,2,1.0,False,Road
+2,3,1.0,False,Road
+3,1,1.0,False,BackEdge
+3,4,1.0,False,Road
+4,3,1.0,False,BackEdge
+4,5,1.0,False,Road
+5,2,1.0,False,BackEdge
